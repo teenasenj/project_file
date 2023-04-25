@@ -1,0 +1,28 @@
+.blue {
+    color: rgb(25, 74, 123);
+    padding: 10px;
+    font-family: Arial;
+    text-align: center;
+    font-weight: 800;
+  }
+  .section1{
+    font-size: medium;
+    text-align: left;
+    color: rgb(103, 103, 225);
+    padding-left: 50px;
+    
+  }
+  .section2
+  {
+    font-size: medium;
+    text-align: Right;
+    color: rgb(103, 84, 241);
+   padding-left: 550px;
+   padding-right: 5%;
+   padding-top:5%;
+
+    }
+a{
+    padding-left: 120px;
+    text-align: center; 
+}
